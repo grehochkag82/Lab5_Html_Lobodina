@@ -36,3 +36,15 @@ ______
 <p><a href = "https://google.com">Перейти на Google</a></p>
 
 <p><img scr="ex.png" alt="Картинка не загрузилась"/></p>
+
+### **Базовые HTML-теги**
+**Примеры:**
+```
+<h2>Заголовок</h2>
+<p>Абзац текста</p>
+<strong>Жирный</strong>
+<em>Курсив</em>
+<hr>
+<a href="https://example.com">Ссылка</a>
+<img src="example.jpg" alt="Описание">
+```
