@@ -36,8 +36,3 @@ ______
 <p><a href = "https://google.com">Перейти на Google</a></p>
 
 <p><img scr="ex.png" alt="Картинка не загрузилась"/></p>
-<h2>Базовые HTML-теги</h2>
-<p>HTML позволяет<strong>выделять</strong> текст и делать <em>акценты</em>.</p>
-<hr />
- <p><a href="https://github.com">Мой GitHub</a></p>
- <p><img scr="img/gitPushLab5_Lobodina.png" alt="Пример изображения" /></p>
